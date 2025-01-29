@@ -181,6 +181,10 @@ footer li{
 .xtra{
     display:none;
 }
+.disclaimer{
+    font-size:10px;
+    color:grey;
+}
 /* FOR DESKTOP SITE */
 @media (min-width:1024px){
     .desktop-only{
